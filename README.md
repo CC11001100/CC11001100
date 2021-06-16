@@ -24,4 +24,4 @@
 
 ## 📫 Reach Me
 
-- Email: [CC11001100@qq.com](CC11001100@qq.com)
+- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com)
