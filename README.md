@@ -1,3 +1,4 @@
+# CC11001100's Profile
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=CC11001100&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
@@ -5,14 +6,22 @@
 </p>
 
 
+## 🔭 Working
+- 后端开发 
+- 大数据 
+- 爬虫 
+- 跨境电商 
+- 网络安全 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CC11001100)](https://github.com/CC11001100)
+## Research
+- 爬虫
+- 逆向
+- 渗透 
+- 大数据 
+- 后端开发 
+- 分布式 
+- 前端（Fake）
 
+## 📫 Reach Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CC11001100&repo=ast-hook-for-js-RE&show_owner=true)](https://github.com/CC11001100/ast-hook-for-js-RE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CC11001100&repo=crawler-js-hook-framework-public&show_owner=true)](https://github.com/CC11001100/crawler-js-hook-framework-public)
-
-
-
-
-
+- Email: [CC11001100@qq.com](CC11001100@qq.com)
