@@ -5,6 +5,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=crawler-js-hook-framework-public&show_owner=true)](https://github.com/CC11001100/crawler-js-hook-framework-public)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CC11001100)](https://github.com/anuraghazra/github-readme-stats)
 
 
