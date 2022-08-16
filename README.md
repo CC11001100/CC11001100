@@ -22,6 +22,6 @@
 
 
 ## 📫 Reach Me
-- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com)
+- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) （抱歉即时通讯软件可能回复较慢，有事请优先给我写邮件）
 - Blog: [https://www.cnblogs.com/cc11001100/](https://www.cnblogs.com/cc11001100/)
 - Blog: [http://cc11001100.com](http://cc11001100.com)
