@@ -21,7 +21,7 @@
 - Safety research
 
 ## 📫 Reach Me
-- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) （抱歉即时通讯软件可能回复较慢，有事请优先给我写邮件）
+- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) （Sorry IM software may be slow to reply, please write to me as a priority）
 - Blog old: [https://www.cnblogs.com/cc11001100/](https://www.cnblogs.com/cc11001100/)
 - Blog new: [https://www.cc11001100.com](https://www.cc11001100.com)
 
