@@ -21,6 +21,6 @@
 - Safety research
 
 ## 📫 Reach Me
-- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) （Sorry IM software may be slow to reply, please write to me as a priority）
+- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) 
 
 **Social phobia. Please forgive me if I neglect you**
