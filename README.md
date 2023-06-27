@@ -25,4 +25,4 @@
 - Blog old: [https://www.cnblogs.com/cc11001100/](https://www.cnblogs.com/cc11001100/)
 - Blog new: [https://www.cc11001100.com](https://www.cc11001100.com)
 
-Email is welcome to discuss interesting ideas, technical exchanges, no personal work.
+**Social phobia. Please forgive me if I neglect you**
