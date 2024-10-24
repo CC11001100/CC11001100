@@ -1,26 +1,16 @@
-# CC11001100's Profile
+# CC11001100 
 
-## 🔭 Working
-- Back-end development
-- Big data analysis  
-- crawler
-- Big data media（2017）
-- Cross-border e-commerce（Before 2021）
-- Network security（Now）
-
+![image-20241024220755240](./README.assets/image-20241024220755240.png)
 
 ## 🌱 Research
-- Crawler
-- Reverse engineering
-- penetration
-- Big data 
-- Back-end development 
-- Distributed system 
-- Front end（Fake...）
-- Security development
-- Safety research
 
-## 📫 Reach Me
-- Email: [CC11001100@qq.com](mailto:CC11001100@qq.com) 
+- 以实现各种奇思妙想为乐
+- 为世界带来微小而美好的改变
 
-**Social phobia. Please forgive me if I neglect you**
+## 📫 联系我
+- 邮箱： [CC11001100@qq.com](mailto:CC11001100@qq.com) 
+- 微信：
+
+<img src="./README.assets/image-20231030132026541-7614065.png" style="width: 200px;">
+
+****
