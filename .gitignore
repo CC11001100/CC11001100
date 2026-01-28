@@ -99,3 +99,19 @@ hs_err_pid*
 *.exe
 *.test
 vendor/
+
+# Added by automation script
+# Dependencies
+node_modules/
+bower_components/
+jspm_packages/
+
+# Build outputs
+/dist/
+/build/
+/out/
+/target/
+/bin/
+/tmp/
+/coverage/
+.nyc_output/
